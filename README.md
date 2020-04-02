@@ -1,4 +1,6 @@
-# ASUS-R414U-Clover
+# ASUS-R414U-Clover  
+forked from srole-xiaoxian/ASUS-R414U-Clover  
+
 黑苹果Clover  
 已成功的版本  
 MacOS High Sierra(10.13.6 17G65)  
